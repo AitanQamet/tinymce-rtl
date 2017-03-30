@@ -1,9 +1,16 @@
 # tinymce-rtl
 TinyMCE-RTL
+
+This option allows you to set the base UI 
+
+``` rtl_ui:true 
+```
+
+In this example we will set the editor rtl_ui to true.
 ```js
 tinymce.init({
   selector: 'textarea',  // change this value according to your HTML
-  language: 'sv_SE'
+  rtl_ui:true 
 });
 ```
 
