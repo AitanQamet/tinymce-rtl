@@ -3,7 +3,8 @@ TinyMCE-RTL
 
 This option allows you to set the base UI 
 
-``` rtl_ui:true 
+``` 
+rtl_ui:true 
 ```
 
 In this example we will set the editor rtl_ui to true.
