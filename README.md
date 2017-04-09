@@ -14,4 +14,6 @@ tinymce.init({
   rtl_ui:true 
 });
 ```
+after:
+![Toguz Kumalak ("nine pebbles")](https://github.com/aytsoft/tinymce-rtl/blob/master/img.png)
 
