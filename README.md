@@ -17,3 +17,6 @@ tinymce.init({
 after:
 ![Toguz Kumalak ("nine pebbles")](https://github.com/aytsoft/tinymce-rtl/blob/master/img.png)
 
+
+If you are going to use it for Arabic language [Download](https://www.tinymce.com/docs/configure/localization/) the Arabic version
+
